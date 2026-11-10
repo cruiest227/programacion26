@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class EJERCICIO1 {
     static void main(String[] args) {
-        Scanner teclado = new Scanner(System.in);gi
+        Scanner teclado = new Scanner(System.in);
 
         int numero = teclado.nextInt();
 
